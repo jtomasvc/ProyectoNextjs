@@ -2,15 +2,12 @@ import React from 'react';
 import Layout from '../Components/Layouts/Layout';
 
 
-export default function Home() {
+export default function Login() {
   return (
     <div>
         <Layout>
-          Inicio
+          <h1>Login</h1>
         </Layout>
     </div>
   )
 }
-
-
-
